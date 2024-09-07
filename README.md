@@ -2,6 +2,19 @@
 
 This project demonstrates how to analyze and forecast time series data using ARIMA and Prophet models. The dataset contains daily sales data over a 15-day period. The goal is to predict future sales based on historical data using different forecasting techniques.
 
+### Forecast Results
+
+The following plots were generated as part of the analysis:
+
+1. **ARIMA Forecast**
+
+   <img src="images/arima_forecast.png" alt="ARIMA Forecast" width="600"/>
+
+2. **Prophet Forecast**
+
+   <img src="images/prophet_forecast.png" alt="Prophet Forecast" width="600"/>
+
+
 ## Data Description
 
 The dataset used for this project is a sample sales dataset saved in `data/sales_data.csv`. It includes daily sales data for a 15-day period. Each row represents a single day's sales.
@@ -56,20 +69,6 @@ The repository contains the following files and directories:
 
 5. **Check the output:**
    - The processed data will be saved as plots in the `images` folder.
-
-
-
-### Forecast Results
-
-The following plots were generated as part of the analysis:
-
-1. **ARIMA Forecast**
-
-   ![ARIMA Forecast](images/arima_forecast.png)
-
-2. **Prophet Forecast**
-
-   ![Prophet Forecast](images/prophet_forecast.png)
 
 
 ### Sample Data
