@@ -26,28 +26,7 @@ The repository contains the following files and directories:
 
 - `README.md` - This file, providing an overview of the project and instructions.
 
-
-### Sample Data
-
-```csv
-Date,Sales
-2023-01-01,100
-2023-01-02,110
-2023-01-03,130
-2023-01-04,120
-2023-01-05,150
-2023-01-06,160
-2023-01-07,170
-2023-01-08,180
-2023-01-09,190
-2023-01-10,200
-2023-01-11,210
-2023-01-12,220
-2023-01-13,230
-2023-01-14,240
-2023-01-15,250
-
-## How to Run
+### How to Run
 
 1. **Clone the repository:**
 
@@ -77,6 +56,29 @@ Date,Sales
 
 5. **Check the output:**
    - The processed data will be saved as plots in the `images` folder.
+
+
+
+
+### Sample Data
+
+```csv
+Date,Sales
+2023-01-01,100
+2023-01-02,110
+2023-01-03,130
+2023-01-04,120
+2023-01-05,150
+2023-01-06,160
+2023-01-07,170
+2023-01-08,180
+2023-01-09,190
+2023-01-10,200
+2023-01-11,210
+2023-01-12,220
+2023-01-13,230
+2023-01-14,240
+2023-01-15,250
 
 
 
