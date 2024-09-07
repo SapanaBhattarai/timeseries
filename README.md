@@ -59,6 +59,18 @@ The repository contains the following files and directories:
 
 
 
+### Forecast Results
+
+The following plots were generated as part of the analysis:
+
+1. **ARIMA Forecast**
+
+   ![ARIMA Forecast](images/arima_forecast.png)
+
+2. **Prophet Forecast**
+
+   ![Prophet Forecast](images/prophet_forecast.png)
+
 
 ### Sample Data
 
@@ -79,6 +91,7 @@ Date,Sales
 2023-01-13,230
 2023-01-14,240
 2023-01-15,250
+
 
 
 
